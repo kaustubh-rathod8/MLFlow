@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/24f60965c708476289f01513045cdd29/artifacts
+end_time: 1740081222529
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24f60965c708476289f01513045cdd29
+run_name: powerful-ape-892
+run_uuid: 24f60965c708476289f01513045cdd29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740081222513
+status: 3
+tags: []
+user_id: kaustubh
